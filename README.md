@@ -3,8 +3,7 @@
 
 ［ hayya ］
 ────────────────────────
-machine learning engineer  
-backend developer  
+machine learning engineer    
 linux enjoyer  
 
 ［ tech stack ］
