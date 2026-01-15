@@ -9,7 +9,7 @@ linux enjoyer
 ［ tech stack ］
 ────────────────────────
 python · swift · kotlin · compose  
-express · react · linux · neovim · zsh
+express · react · linux
 
 ［ values ］
 ────────────────────────
