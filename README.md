@@ -15,6 +15,8 @@ express · react · linux
 ────────────────────────
 minimalism over noise  
 clarity over clutter
-</div>
 
+
+<br/>
 <img src="https://readme-stats-verzional.vercel.app/api?username=hayyaoe&show_icons=true&layout=compact&theme=transparent" alt="Hayyaoe's GitHub Stats" width="47.5%" height="200px"/>
+</div>
